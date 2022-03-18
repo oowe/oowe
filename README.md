@@ -1,6 +1,6 @@
 ### About me
   
 * 💻 Competitive programmer  
-* ✏️ NTUST student  
+* ✏️ Graduated by NTUST, Taiwan  
 * ⌨️ Languages: Python, Typescript, Nodejs  
 * 🌐 My blog: 
